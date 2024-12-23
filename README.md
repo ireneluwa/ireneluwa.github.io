@@ -1,6 +1,5 @@
 Lake Forest College | Lake Forest, IL | luwabelwaffa55@lakeforest.edu | 224-540-6648 | [LinkedIn](https://www.linkedin.com/in/ireneluwa)
 
-
 ## Education  
 **BA in Computer Science and Data Science, Lake Forest College** *(August 2021 - May 2025)*  
 - **GPA:** 3.84/4.00  
@@ -26,7 +25,7 @@ Lake Forest College | Lake Forest, IL | luwabelwaffa55@lakeforest.edu | 224-540-
  
 **Skills:**  
 - Programming: R, Java, Python, SQL, PHP, C, Perl, C#, HTML, CSS, JavaScript, Shell Scripting  
-- Tools: Scikit-learn, NumPy, Pandas, Jupyter notebooks, Git, Tableau
+- Tools: Scikit-learn, NumPy, Pandas, Jupyter notebooks, Git, Tableau, Visual Studio
 - Development: Statistical Programming, Experimental Design, Data Mining
 
 ## Publications  
@@ -73,7 +72,8 @@ Gard et al. (2024). *The fqar package: R tools for analyzing floristic quality a
 - Contributed to technical documentation and attended weekly department training sessions.  
 
 ## Leadership and extracurricular activities  
-- **Secretary/member - United Black Association, Lake Forest College** *(August 2021 – present)*  
-- **Secretary - Black Women United, Lake Forest College** *(August 2021 – present)*  
-- **Member - Reason and Decision Lab, Lake Forest College** *(August 2021 – present)*  
+- **Member - Girls Who Code** *(August 2023 – present)*  
+- **Secretary/member - United Black Association** *(August 2021 – present)*  
+- **Secretary - Black Women United** *(August 2021 – present)*  
+- **Member - Reason and Decision Lab** *(August 2021 – present)*  
 
