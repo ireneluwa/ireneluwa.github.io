@@ -1,73 +1,73 @@
-IRENE LUWABELWA  
-LAKE FOREST, IL | LUWABELWAFFA55@LAKEFOREST.EDU | 224-540-6648 | LINKEDIN  
+Irene Luwabelwa  
+Lake Forest, IL | luwabelwaffa55@lakeforest.edu | 224-540-6648 | LinkedIn  
 
-## EDUCATION  
-**LAKE FOREST COLLEGE, LAKE FOREST, IL**  
-**BACHELOR OF ARTS: COMPUTER SCIENCE, DATA SCIENCE** *(AUGUST 2021 - MAY 2025)*  
+## Education  
+**Lake Forest College, Lake Forest, IL**  
+**Bachelor of Arts: Computer Science, Data Science** *(August 2021 - May 2025)*  
 - **GPA:** 3.84/4.00  
-- **MINOR:** PHILOSOPHY  
+- **Minor:** Philosophy  
 
-**ADVANCED COURSEWORK:**  
-ALGORITHMS AND ALGORITHM ANALYSIS, MULTIVARIABLE CALCULUS, CAUSAL INFERENCE, COMBINATORICS AND GRAPH THEORY, DATA STRUCTURES AND ALGORITHMS, DATABASE SYSTEMS, OPERATING SYSTEMS, PROGRAMMING FOR DATA APPLICATIONS (MACHINE LEARNING), STATISTICAL PROGRAMMING (R), SOFTWARE ENGINEERING FOR WEB APPLICATIONS.  
+**Advanced coursework:**  
+Algorithms and algorithm analysis, multivariable calculus, causal inference, combinatorics and graph theory, data structures and algorithms, database systems, operating systems, programming for data applications (machine learning), statistical programming (R), software engineering for web applications.  
 
-**HONORS/AWARDS:**  
-- DAVIS SCHOLAR  
-- DEAN’S LIST (2021 - PRESENT)  
-- JAMES ROCCO DATA RESEARCH SCHOLARSHIP  
-- PRESIDENTIAL SCHOLARSHIP  
-- RICHTER SCHOLAR SUMMER RESEARCHER  
+**Honors/awards:**  
+- Davis scholar  
+- Dean’s list (2021 - present)  
+- James Rocco data research scholarship  
+- Presidential scholarship  
+- Richter scholar summer researcher  
 
-## PUBLICATIONS  
-GARD ET AL. (2024). *THE FQAR PACKAGE: R TOOLS FOR ANALYZING FLORISTIC QUALITY ASSESSMENT DATA.* JOURNAL OF OPEN-SOURCE SOFTWARE, 9(96), 6366. [HTTPS://DOI.ORG/10.21105/JOSS.06366](HTTPS://DOI.ORG/10.21105/JOSS.06366)   
+## Publications  
+Gard et al. (2024). *The fqar package: R tools for analyzing floristic quality assessment data.* Journal of Open-Source Software, 9(96), 6366. [https://doi.org/10.21105/joss.06366](https://doi.org/10.21105/joss.06366)  
 
-## PRESENTATIONS  
-- **STEVEN GALOVICH MEMORIAL STUDENT SYMPOSIUM (APRIL 9, 2024):** PRESENTED RESEARCH CONDUCTED FOR THE JAMES ROCCO DATA RESEARCH SCHOLARSHIP.  
-- **JAMES ROCCO PROGRAM SYMPOSIUM (APRIL 28, 2023):** DELIVERED FINDINGS ON DATA ANALYSIS METHODOLOGIES FOR ECOLOGICAL SENSITIVITY STUDIES.  
-- **GLASSMAN SYMPOSIUM (APRIL 11, 2023):** DISCUSSED RESEARCH ON CAUSAL JUDGMENT FRAMEWORKS IN HUMAN DECISION-MAKING.  
-- **RICHTER OPTION II SYMPOSIUM (JULY 5, 2022):** SHARED INSIGHTS FROM EXPERIMENTS EXPLORING GENDERED LANGUAGE IN JOB APPLICATIONS.  
+## Presentations  
+- **Steven Galovich Memorial Student Symposium (April 9, 2024):** Presented research conducted for the James Rocco data research scholarship.  
+- **James Rocco Program Symposium (April 28, 2023):** Delivered findings on data analysis methodologies for ecological sensitivity studies.  
+- **Glassman Symposium (April 11, 2023):** Discussed research on causal judgment frameworks in human decision-making.  
+- **Richter Option II Symposium (July 5, 2022):** Shared insights from experiments exploring gendered language in job applications.  
 
-## RESEARCH EXPERIENCE  
-**HUMAN GRANT, LAKE FOREST, IL** *(MAY 2024 – DECEMBER 2024)*  
-*RESEARCH ASSISTANT*  
-- CONTRIBUTING TO A $1.2M MELLON FOUNDATION HUMAN GRANT PROJECT FOCUSING ON AI AND THE HUMANITIES.  
-- DESIGNING A CUSTOM CHATBOT USING AWS SAGEMAKER TO EXPLORE AI APPLICATIONS IN EDUCATION.  
-- DEVELOPING DATA ANALYSIS TECHNIQUES, COLLECTION STRATEGIES, AND CONDUCTING BACKGROUND RESEARCH ON AI IN EDUCATION.  
-- COLLABORATING WITH AN INTERDISCIPLINARY TEAM ON RESEARCH PROPOSALS, PRESENTATIONS, AND PUBLICATIONS ON AI’S EDUCATIONAL IMPACT.  
+## Research experience  
+**Human grant, Lake Forest, IL** *(May 2024 – December 2024)*  
+*Research assistant*  
+- Contributing to a $1.2M Mellon Foundation human grant project focusing on AI and the humanities.  
+- Designing a custom chatbot using AWS Sagemaker to explore AI applications in education.  
+- Developing data analysis techniques, collection strategies, and conducting background research on AI in education.  
+- Collaborating with an interdisciplinary team on research proposals, presentations, and publications on AI’s educational impact.  
 
-**INDEPENDENT STUDY - INTRODUCTION TO CAUSAL INFERENCE** *(PHILOSOPHY DEPARTMENT)*  
-- EXAMINED FUNDAMENTAL CONCEPTS OF CAUSATION AND VARIOUS APPROACHES.  
-- GAINED PROFICIENCY IN IMPLEMENTING CAUSAL MODELS AND DO-CALCULUS IN R.  
+**Independent study - introduction to causal inference** *(Philosophy department)*  
+- Examined fundamental concepts of causation and various approaches.  
+- Gained proficiency in implementing causal models and do-calculus in R.  
 
-**REASON AND DECISION LAB, LAKE FOREST, IL** *(AUGUST 2022 – AUGUST 2023)*  
-*EXPERIMENTAL PHILOSOPHY RESEARCH ASSISTANT*  
-- CONDUCTED RESEARCH INTO CAUSAL INFERENCE, MORAL REASONING, AND DECISION-MAKING.  
-- DESIGNED EXPERIMENTS AND CONDUCTED STATISTICAL ANALYSIS IN R.  
-- USED UNITY GAME DEVELOPMENT ENGINE AND C# TO PROGRAM ANIMATED VIDEOS FOR EXPERIMENTS REPLACING CLASSICAL VIGNETTES.  
+**Reason and decision lab, Lake Forest, IL** *(August 2022 – August 2023)*  
+*Experimental philosophy research assistant*  
+- Conducted research into causal inference, moral reasoning, and decision-making.  
+- Designed experiments and conducted statistical analysis in R.  
+- Used Unity game development engine and C# to program animated videos for experiments replacing classical vignettes.  
 
-**APPLIED DATA CENTER, LAKE FOREST, IL** *(MAY 2023 – JULY 2023)*  
-*JAMES ROCCO INDEPENDENT DATA RESEARCHER*  
-- ANALYZED SPECIES C-VALUE CO-OCCURRENCE IN THE CHICAGOLAND REGION USING R AND API WEB SCRAPING TO ASSESS PLANT SENSITIVITY TO HUMAN DISTURBANCE.  
-- MAINTAINED AND EXPANDED THE R PACKAGE (FQAR) USED TO CONDUCT RESEARCH.  
-- PRODUCED COMPREHENSIVE REPORTS, TECHNICAL DOCUMENTATION, AND VISUALIZATIONS TO CONVEY FINDINGS.  
-- PRESENTED FINDINGS TO STAKEHOLDERS AND THE COLLEGE COMMUNITY.  
+**Applied data center, Lake Forest, IL** *(May 2023 – July 2023)*  
+*James Rocco independent data researcher*  
+- Analyzed species C-value co-occurrence in the Chicagoland region using R and API web scraping to assess plant sensitivity to human disturbance.  
+- Maintained and expanded the R package (fqar) used to conduct research.  
+- Produced comprehensive reports, technical documentation, and visualizations to convey findings.  
+- Presented findings to stakeholders and the college community.  
 
-**LAKE FOREST COLLEGE - RICHTER SCHOLAR RESEARCH PROGRAM** *(MAY 2022 – JULY 2022)*  
-- DESIGNED EXPERIMENTS INVESTIGATING AGENTIC (MASCULINE) VS. COMMUNAL (FEMININE) LANGUAGE EFFECTS ON JOB APPLICATION SUCCESS.   
+**Lake Forest College - Richter scholar research program** *(May 2022 – July 2022)*  
+- Designed experiments investigating agentic (masculine) vs. communal (feminine) language effects on job application success.   
 
-## ADDITIONAL WORK EXPERIENCE  
-**INFORMATION TECHNOLOGY SERVICES, LAKE FOREST, IL** *(AUGUST 2021 – AUGUST 2023)*  
-*STUDENT SUPERVISOR*  
-- TRAINED STUDENT WORKERS IN RESOLVING COMPLEX HARDWARE/SOFTWARE ISSUES AND GUIDED SERVICE DESK PROTOCOLS.  
-- CONTRIBUTED TO TECHNICAL DOCUMENTATION AND ATTENDED WEEKLY DEPARTMENT TRAINING SESSIONS.  
+## Additional work experience  
+**Information technology services, Lake Forest, IL** *(August 2021 – August 2023)*  
+*Student supervisor*  
+- Trained student workers in resolving complex hardware/software issues and guided service desk protocols.  
+- Contributed to technical documentation and attended weekly department training sessions.  
 
-## LEADERSHIP AND EXTRACURRICULAR ACTIVITIES  
-- **SECRETARY/MEMBER - UNITED BLACK ASSOCIATION, LAKE FOREST COLLEGE** *(AUGUST 2021 – PRESENT)*  
-- **SECRETARY - BLACK WOMEN UNITED, LAKE FOREST COLLEGE** *(AUGUST 2021 – PRESENT)*  
-- **MEMBER - REASON AND DECISION LAB, LAKE FOREST COLLEGE** *(AUGUST 2021 – PRESENT)*  
+## Leadership and extracurricular activities  
+- **Secretary/member - United Black Association, Lake Forest College** *(August 2021 – present)*  
+- **Secretary - Black Women United, Lake Forest College** *(August 2021 – present)*  
+- **Member - Reason and Decision Lab, Lake Forest College** *(August 2021 – present)*  
 
-## SKILLS  
-**TECHNICAL SKILLS:**  
-- PROGRAMMING: R, JAVA, PYTHON, SQL, C, PERL, C#, HTML, PHP, CSS, JAVASCRIPT, SHELL SCRIPTING  
-- DATA SCIENCE TOOLS: SCIKIT-LEARN, NUMPY, PANDAS, JUPYTER NOTEBOOKS  
-- SOFTWARE DEVELOPMENT: GIT, STATISTICAL PROGRAMMING, EXPERIMENTAL DESIGN, AWS SAGEMAKER, DATA MINING  
+## Skills  
+**Technical skills:**  
+- Programming: R, Java, Python, SQL, C, Perl, C#, HTML, PHP, CSS, JavaScript, shell scripting  
+- Data science tools: Scikit-learn, NumPy, Pandas, Jupyter notebooks  
+- Software development: Git, statistical programming, experimental design, AWS Sagemaker, data mining
 
