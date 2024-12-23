@@ -1,21 +1,33 @@
-Irene Luwabelwa  
-Lake Forest, IL | luwabelwaffa55@lakeforest.edu | 224-540-6648 | LinkedIn  
+Lake Forest College | Lake Forest, IL | luwabelwaffa55@lakeforest.edu | 224-540-6648 | [LinkedIn](https://www.linkedin.com/in/ireneluwa)
+
 
 ## Education  
-**Lake Forest College, Lake Forest, IL**  
-**Bachelor of Arts: Computer Science, Data Science** *(August 2021 - May 2025)*  
+**BA in Computer Science and Data Science, Lake Forest College** *(August 2021 - May 2025)*  
 - **GPA:** 3.84/4.00  
-- **Minor:** Philosophy  
+- **Minor:** Philosophy
 
 **Advanced coursework:**  
-Algorithms and algorithm analysis, multivariable calculus, causal inference, combinatorics and graph theory, data structures and algorithms, database systems, operating systems, programming for data applications (machine learning), statistical programming (R), software engineering for web applications.  
+- Algorithms and Algorithm Analysis
+- Causal Inference
+- Combinatorics and Graph Theory
+- Database Systems
+- Multivariable Calculus
+- Operating Systems
+- Programming for Data Applications (Machine learning)
+- Statistical Programming (R)
+- Software Engineering for Web Applications  
 
 **Honors/awards:**  
-- Davis scholar  
-- Dean’s list (2021 - present)  
-- James Rocco data research scholarship  
-- Presidential scholarship  
-- Richter scholar summer researcher  
+- James Rocco Data Research Scholarship (2023)
+- Richter Scholar Summer Researcher (2022)
+- Davis Scholarship (2021 - present) 
+- Dean’s List (2021 - present)  
+- Presidential Scholarship  (2021 - present)
+ 
+**Skills:**  
+- Programming: R, Java, Python, SQL, PHP, C, Perl, C#, HTML, CSS, JavaScript, Shell Scripting  
+- Tools: Scikit-learn, NumPy, Pandas, Jupyter notebooks, Git, Tableau
+- Development: Statistical Programming, Experimental Design, Data Mining
 
 ## Publications  
 Gard et al. (2024). *The fqar package: R tools for analyzing floristic quality assessment data.* Journal of Open-Source Software, 9(96), 6366. [https://doi.org/10.21105/joss.06366](https://doi.org/10.21105/joss.06366)  
@@ -64,10 +76,4 @@ Gard et al. (2024). *The fqar package: R tools for analyzing floristic quality a
 - **Secretary/member - United Black Association, Lake Forest College** *(August 2021 – present)*  
 - **Secretary - Black Women United, Lake Forest College** *(August 2021 – present)*  
 - **Member - Reason and Decision Lab, Lake Forest College** *(August 2021 – present)*  
-
-## Skills  
-**Technical skills:**  
-- Programming: R, Java, Python, SQL, C, Perl, C#, HTML, PHP, CSS, JavaScript, shell scripting  
-- Data science tools: Scikit-learn, NumPy, Pandas, Jupyter notebooks  
-- Software development: Git, statistical programming, experimental design, AWS Sagemaker, data mining
 
