@@ -28,19 +28,19 @@ Gard A, Myers A, **Luwabelwa I** (2024). “The fqar package: R tools for analyz
 ## Presentations  
 **A Data-Driven Approach to C-value Reassignment using R and the fqar Package**  
 *Steven Galovich Memorial Student Symposium, Lake Forest College (April 2024)*  
-- Presented research conducted for the James Rocco data research scholarship.  
+Presented research conducted for the James Rocco data research scholarship.  
 
 **Exploring Species Floristic Cooccurrence using R**  
 *James Rocco Program Symposium, Lake Forest College (April 2023)*  
-- Presented findings on species floristic co-occurrence analysis using advanced R programming  
+Presented findings on species floristic co-occurrence analysis using advanced R programming  
 
 **Are There Recency and Primacy Effects for Omissions?**  
 *Glassman Symposium, Lake Forest College (April 2023)*  
-- Presented poster of experimental research on recency and primacy effects in causal judgment  
+Presented poster of experimental research on recency and primacy effects in causal judgment  
 
 **Is the Expectation to “Man Up?”: The Impact of Gender and Gendered Language on Female Applicant Success**  
 *Richter Scholar Research Symposium, Lake Forest College (July 2022)*  
-- Presented findings on the impact of gendered language in professional settings  
+Presented findings on the impact of gendered language in professional settings  
 
 ## Research experience  
 **Human grant, Lake Forest, IL** *(May 2024 – December 2024)*  
