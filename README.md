@@ -13,8 +13,8 @@ James Rocco Data Research Scholarship (2023), Richter Scholar Summer Researcher 
  
 **Skills:**  
 - Programming Languages: R, Java, Python, SQL, PHP, HTML, C, Perl, C#, HTML, CSS, JavaScript,
-- Tools: Scikit-learn, NumPy, Pandas, Git, Tableau, Visual Studio, Jupyter Notebooks 
-- Development: Statistical Analysis and Programming, Experimental Design, Data Mining, Unity Game Engine
+- Frameworks & Tools: Scikit-learn, NumPy, Pandas, Git, Tableau, Visual Studio, Unity Game Engine 
+- Concepts: Machine Learning, Data Mining, Statistical Modeling, Database Design
 
 ## Publications  
 Gard A, Myers A, **Luwabelwa I** (2024). “The fqar package: R tools for analyzing floristic quality assessment data.” Journal of Open Source Software, 9(96), 6366. https://doi.org/10.21105/joss.06366.  
