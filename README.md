@@ -6,7 +6,7 @@ Lake Forest College | Lake Forest, IL | luwabelwaffa55@lakeforest.edu | 224-540-
 - **Minor:** Philosophy
 
 **Advanced coursework:**  
-Algorithms and Algorithm Analysis, Causal Inference, Combinatorics and Graph Theory, Database Systems, Multivariable Calculus, Operating Systems, Programming for Data Applications (Machine learning), Statistical Programming (R), Software Engineering for Web Applications  
+Algorithms and Algorithm Analysis, Causal Inference, Combinatorics and Graph Theory, Database Systems, Multivariable Calculus, Operating Systems, Programming for Data Applications (Machine learning), Statistical Programming (R), Software Engineering for Web Applications, Computer Vision (Spring 2024)  
 
 **Honors/awards:**  
 James Rocco Data Research Scholarship (2023), Richter Scholar Summer Researcher (2022), Davis Scholarship (2021 - present), Dean’s List (2021 - present), Presidential Scholarship  (2021 - present)
